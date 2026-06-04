@@ -10,7 +10,7 @@ import urllib.request
 MODEL_PATH = 'ai_detector_weight.pth'
 
 # ⚠️ สำคัญมาก: เอาลิงก์ Dropbox ของคุณที่เปลี่ยนตัวท้ายเป็น dl=1 แล้ว มาวางแทนที่ข้อความข้างล่างนี้ครับ
-MODEL_URL = 'https://www.dropbox.com/scl/fi/pvg1o2sgqg99nbb22gvpy/ai_detector_weight.pth?rlkey=rstf3ft6lud3rozjtm6gnl0iy&st=94sodvds&dl=1'
+MODEL_URL = 'https://www.dropbox.com/scl/fi/y2ql6p87b0juxsnsenwzq/ai_detector_weight.pth?rlkey=7nmxmiorwflh31f75wbptt1hp&st=0h7jvhtt&dl=1'
 
 def download_model():
     if not os.path.exists(MODEL_PATH):
