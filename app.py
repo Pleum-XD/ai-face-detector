@@ -8,7 +8,7 @@ import requests
 
 # [CONFIGURATION] ส่วนตั้งค่าตำแหน่งโมเดล
 # ⚠️ อย่าลืมตรวจสอบลิงก์ Dropbox ของคุณ และเปลี่ยนตัวท้ายสุดเป็น dl=1 เสมอครับ
-MODEL_URL = 'https://www.dropbox.com/scl/fi/cd5dh4qaoqzxnr76z1bt2/ai_detector_weight.pth?rlkey=sx3z7qqc31e8jlixtr2elefxt&st=u9df1c1l&dl=1'
+MODEL_URL = 'https://www.dropbox.com/scl/fi/ge23a5a36nhikv1ccibtp/ai_detector_weight.pth?rlkey=tn1onmr5m5p5afpztef6pae8c&st=bdchjjow&dl=1'
 MODEL_FILENAME = 'ai_detector_weight.pth'
 
 @st.cache_resource
