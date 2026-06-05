@@ -1,6 +1,5 @@
 streamlit
---find-links https://download.pytorch.org/whl/cpu/torch_stable.html
-torch==2.2.0+cpu
-torchvision==0.17.0+cpu
+torch
+torchvision
 Pillow
 requests
